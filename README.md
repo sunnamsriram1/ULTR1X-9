@@ -13,7 +13,6 @@ All usage procedures should be performed to not to get any error
 apt install python3
 git clone https://github.com/sunnamsriram1/ULTR1X-9.git
 cd ULTR1X-9
-ls
 pip install -r requirements.txt
 python3 ULTR1X-9.py
 ```
