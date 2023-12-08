@@ -1,5 +1,3 @@
-
-
 pip install os
 pip install wolframalpha
 pip install gTTS
