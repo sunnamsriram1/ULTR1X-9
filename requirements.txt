@@ -1,11 +1,11 @@
 
-pip install os
-pip install wolframalpha
-pip install gTTS
-pip install colorama
-pip install tqdm
-pip install wikipedia
-pip install time
-pip install subprocess
-pip install datetime
+os
+wolframalpha
+gTTS
+colorama
+tqdm
+wikipedia
+time
+subprocess
+datetime
 
