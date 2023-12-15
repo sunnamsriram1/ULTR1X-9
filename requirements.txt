@@ -1,11 +1,10 @@
-
-os
+os-sys
 wolframalpha
 gTTS
 colorama
 tqdm
 wikipedia
-time
-subprocess
+python-time
+subprocess32
+#DateTime
 datetime
-
